@@ -5,3 +5,5 @@ Just made things run for finding the solution and went ahead. Do not expect anyt
 As an "old" C programmer you'll also find many loops in case where Python language would offer more elegant solutions, hehe.
 
 As an additional goal with this years (2023) AdventOfCode is to get familiar with vi/Neovim editor.
+
+Update, Dec 5th: Part 1 ok, Part 2 not yet; more difficult this year, needs to think more about proper algorithms.
