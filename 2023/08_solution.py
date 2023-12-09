@@ -73,6 +73,8 @@ while not all([len(a)>4 for a in i_where_z]):
 import numpy as np
 for aa in i_where_z:
     print(np.diff(np.array(aa)))
+
+# [a[i+1]-a[i] for i in range(len(a)-1)]
     
 # [11653 11653 11653 11653 11653 11653 11653]
 # [19783 19783 19783 19783]
